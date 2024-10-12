@@ -6,7 +6,7 @@ int * criar_vetor(int tam){
 	int *vet; 
 
 	vet = (int *) malloc( sizeof (int) * tam);
-	return vet;
+	return vet; 
 
 }
 
